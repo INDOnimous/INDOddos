@@ -10,5 +10,5 @@ DDoS merupakan kependekan dari Distributed Denial of Service atau dalam bahasa I
 di tools ini kita akan memberikan anda akses atau cara untuk DDOS ATTACK targer secara berutatal. Untuk cara penginstalan nya menggunakan linux / termux.
 ### Use Termux 
 
-'''fish
-git clone 
+```fish
+git clone https://github.com/INDOnimous/INDOddos
