@@ -30,7 +30,7 @@ pkg install git
 git clone https://github.com/INDOnimous/INDOddos
 cd INDOddos
 python2 INDOattack.py
-```fish
+```
 
 ## Thank you for using this tools..
 
