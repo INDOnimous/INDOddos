@@ -17,7 +17,7 @@ di tools ini kita akan memberikan anda akses atau cara untuk DDOS ATTACK targer 
 ```fish
 pkg update && upgrade
 pkg install python2
-
+pkg install wget
 pkg install git
 git clone https://github.com/INDOnimous/INDOddos
 cd INDOddos
