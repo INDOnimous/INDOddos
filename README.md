@@ -16,3 +16,5 @@ di tools ini kita akan memberikan anda akses atau cara untuk DDOS ATTACK targer 
 
 ```fish
 git clone https://github.com/INDOnimous/INDOddos
+cd INDOddos
+python2 INDOattack.py
