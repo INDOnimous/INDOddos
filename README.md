@@ -31,9 +31,9 @@ git clone https://github.com/INDOnimous/INDOddos
 cd INDOddos
 python2 INDOattack.py
 ```
-__
-Buat kamu yang masih bingung cara penggunaan dan penginstalan nya, silahkan kaliam Tonton video panduan penggunaan di bawah ini. janhan lupa SUBSCRIBE CHANNEL nya, 
-__
+
+#### Buat kamu yang masih bingung cara penggunaan dan penginstalan nya, silahkan kaliam Tonton video panduan penggunaan di bawah ini. janhan lupa SUBSCRIBE CHANNEL nya, 
+
 # Video Cara DDOS Attack dengan Termux
 [![Watch the video](https://github.com/INDOnimous/INDOclon/blob/master/IMG/Screenshot_2019-11-01-20-03-26-158_com.google.android.youtube.png)](https://youtu.be/59a1emj_LqY)
 
